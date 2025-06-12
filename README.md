@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="images/cpp." alt="golang_imagem" width="200">
+  <img src="images/cpp.png" alt="cpp_imagem" width="200">
 </p>
 
 
